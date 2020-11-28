@@ -1,7 +1,7 @@
 #include "stdafx.h"
 #include "Calc.h"
 
-
+// test
 Calc::Calc()
 {
 	//numbs.emplace(0.0);
